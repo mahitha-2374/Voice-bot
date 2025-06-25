@@ -60,14 +60,14 @@ genai.configure(api_key="YOUR_API_KEY")
 ```bash
 python your_script.py
 
-###🔐 Notes
+#🔐 Notes
 -Ensure your microphone is enabled and internet is connected.
 
 -Google Speech API and Gemini both require network access to function.
 
 -pyttsx3 works offline for TTS and doesn't require an API key.
 
-###📌 Example Use Cases
+#📌 Example Use Cases
 -AI-based virtual doctor for patient triage
 
 -Voice interface for healthcare kiosks
@@ -76,7 +76,7 @@ python your_script.py
 
 -Educational simulation for medical students
 
-###💡 Future Improvements
+#💡 Future Improvements
 -Add context-aware memory using Gemini chat history
 
 -Support for multilingual queries and responses
