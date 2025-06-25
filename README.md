@@ -47,16 +47,13 @@ A desktop-based **voice-enabled AI assistant** that simulates a soft-spoken doct
 
 ### 1. Install dependencies
 
-```bash
 pip install google-generativeai speechrecognition pyttsx3 Pillow
 
 ### 2. Set your Google Gemini API key
 
-```bash
 genai.configure(api_key="YOUR_API_KEY")
 
 ### 3. Run the bot
 
-```bash
 python your_script.py
 
